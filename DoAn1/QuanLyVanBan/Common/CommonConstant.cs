@@ -13,3 +13,4 @@ namespace QuanLyVanBan.Common
         public static string CurrentCulture { set; get; }
     }
 }
+//tran vo lap
